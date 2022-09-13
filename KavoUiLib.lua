@@ -118,7 +118,7 @@ local themeStyles = {
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
-    }
+    },
     BlueSky = {
         SchemeColor = Color3.fromRGB(80,200,200),
         Background = Color3.fromRGB(31, 41, 43),
